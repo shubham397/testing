@@ -1,0 +1,5 @@
+package com.marmeto.global;
+
+public enum ShippingCaseAction {
+	 AGGREGATE, DEAGGREGATE, DEAGGREGATE_BY_TNT, ASSOCIATE, DISASSOCIATE_BY_TNT, DISASSOCIATE_BY_DHL, RE_ASSOCIATE, DESTROY;
+	}
