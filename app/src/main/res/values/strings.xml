@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sproxil Aggregation App</string>
+    <string name="poweredby">Powered by Sproxil</string>
+    <string name="version"></string>
+    <string name="logodesc">Sproxil logo</string>
+    <string name="sproxillogo">Protecting Brands Globally™</string>
+    <string name="descScan">Scan Barcode</string>
+    <string name="descInput">Input PIN</string>
+    <string name="resultDesc">Scan Results</string>
+    <string name="helpDesc">Help Instructions</string>
+    <string name="copyright">© Sproxil</string>
+    <string name="copyright2">®. All Rights Reserved.</string>
+    <string name="result"></string>
+    <string name="scanbutton">Scan Barcode</string>
+    <string name="login">SIGN IN</string>
+    <string name="home">Go Home</string>
+    <string name="support">support@sproxil.com</string>
+    <string name="terms">Terms</string>
+    <string name="username">Select Role</string>
+    <string name="password">Input Password</string>
+    <string name="userList">Users</string>
+    <string name="submit">Submit</string>
+
+    <!-- PAGE TITLE STRINGS -->
+    <string name="adminmain">Admin Main</string>
+    <string name="supervisormain">Supervisor Main</string>
+    <string name="operatormain">Operator Main</string>
+    <string name="rxcmain">RxC User Main</string>
+    <string name="rxcadminmain">RxC Admin Main</string>
+    <string name="updaterolepage">Update Role</string>
+    <string name="associateshipment">Scan Shipper Cases</string>
+    <string name="updateemailpage">Update E-Mail</string>
+    <string name="successpage">Results of Transaction</string>
+    <string name="loadingscreen">Connecting to Server</string>
+    <string name="aggregatepage">Aggregate Cartons</string>
+    <string name="deaggregatepage">De-Aggregate Cartons</string>
+    <string name="scanlabelpage">Scan Label</string>
+    <string name="queuesuccess">Results of Adding to Queue</string>
+    <string name="applysettingspage">Applying Settings</string>
+    <string name="sendreportpage">Send Report</string>
+    <string name="assigndestinationpage">Tracking</string>
+    <string name="updateshipmentpage">Update Shipment</string>
+
+    <!-- ADMIN STRINGS -->
+    <string name="updatepassword">Change Role Password</string>
+    <string name="changeemail">Change Report E-Mails </string>
+    <string name="updatesettings">Update Settings</string>
+    <string name="updaterole">Update Role</string>
+    <string name="updaterolepass">Update Role Password</string>
+    <string name="currentemail">Current E-Mails:</string>
+    <string name="newemail1">E-Mail 1</string>
+    <string name="newemail2">E-Mail 2</string>
+    <string name="newemail3">E-Mail 3</string>
+    <string name="updateemail">Update E-Mails</string>
+    <string name="rolesuccess">Role password change is successful</string>
+    <string name="newpass">Input New Password</string>
+    <string name="newpassconfirm">Confirm New Password</string>
+    <string name="logout">Logout</string>
+
+    <!-- OPERATOR STRINGS -->
+    <string name="aggregate">Aggregate</string>
+    <string name="addtrackandtrace">Add Shipper Case Label</string>
+    <string name="addshipmentinfo">Add Tracking Information</string>
+    <string name="disassociationadd">Add Dis-Association to Queue</string>
+    <string name="disassociationadd2">Add Shipper Re-Assign to Queue</string>
+    <string name="scanhelp">Use scan button to begin scanning...</string>
+    <string name="undo">Undo Last Carton</string>
+    <string name="undodhl">Undo Shipment Scan</string>
+    <string name="undoAirbill">Undo All Shipper Cases</string>
+    <string name="undoLast">Undo Last Shipper Case</string>
+    <string name="undoall">Undo Whole Shipper Case</string>
+    <string name="undoallshippers">Undo All Shipper Cases</string>
+    <string name="undoshipper">Undo Shipper Case Scan</string>
+    <string name="confirmaggregate">Add to Queue</string>
+    <string name="cartonsscanned">Cartons Scanned:</string>
+    <string name="shippersscanned">Shipper Cases Scanned:</string>
+    <string name="carton"></string>
+    <string name="tntpin">Shipper Case PIN:</string>
+    <string name="pin"></string>
+    <string name="casetest"></string>
+    <string name="sendcaseok">Are you sure you want to add this Shipper Case to queue?</string>
+    <string name="sendcaseconfirm">You are adding this shipper case to queue.</string>
+    <string name="aggregatemore">Aggregate More Cartons.</string>
+    <string name="associatemore">Associate More Shipper Cases.</string>
+    <string name="returntomain">Return to RxC Main</string>
+    <string name="zero">0</string>
+
+    <!-- SUPERVISOR STRINGS -->
+    <string name="uploadreport">Upload and Send Report</string>
+    <string name="reaggregate">De-Aggregate: By Shipper Case Label</string>
+    <string name="deaggregate">De-Aggregate: By Carton Labels</string>
+    <string name="sendemailto">Send E-Mail To:</string>
+    <string name="emailaddress"></string>
+    <string name="aggregatedcases">Shipper Cases Aggregated:</string>
+    <string name="deaggregatedcases">Shipper Cases De-Aggregated:</string>
+    <string name="reaggregatedcases">Shipper Cases Re-Aggregated:</string>
+    <string name="aggregatedcasenumber"></string>
+    <string name="deaggregatedcasenumber"></string>
+    <string name="reaggregatedcasenumber"></string>
+    <string name="sendreport">Send Report</string>
+    <string name="updatereportalert">Are you sure you want to send the report?</string>
+    <string name="confirmupdatereport">Are you sure you want to send a report to the following e-mail addresses? </string>
+    <string name="aggregatenow">Re-Aggregate Now</string>
+    <string name="deaggregatenow">De-Aggregate Now</string>
+    <string name="aggregatelater">Re-Aggregate Later</string>
+    <string name="deaggregateok">Are you sure you want to add these cases to queue for de-aggregation?</string>
+    <string name="disassociationok">Are you sure you want to add these Shipper Cases to queue for dis-association?</string>
+    <string name="disassociationok2">Are you sure you want to add these Shipper Cases to queue for Re-Assignment?</string>
+    <string name="deaggregatereconfirm">Upon successful de-aggregation to the queue, you will be redirected to the Aggregation Screen. </string>
+
+    <!-- RXC SEND REPORT -->
+    <string name="associatedshipments">Associated Shipments:</string>
+    <string name="disassociatedbydhl">Dis-Associated Shipments by DHL:</string>
+    <string name="disassociatedbytnt">Re-Assigned Shipper Tasks:</string>
+    <string name="reassociatedsshipments">Re-Associated Shipments:</string>
+    <string name="destroyedshipments">Destroyed Shipments:</string>
+
+    <!-- ERROR STRINGS -->
+    <string name="error"></string>
+    <string name="invalidpassword">Invalid Password!</string>
+    <string name="invalidemailformat">Invalid Email Format!</string>
+    <string name="maxcases">Maximum amount of cartons scanned!</string>
+    <string name="maxshippers">Maximum amount of shipper cases scanned!</string>
+    <string name="invalidemail">The e-mail does not match a valid format, please try again.</string>
+    <string name="tryagain">Please try again.</string>
+    <string name="newpasses_nonmatch">Passwords Do Not Match!</string>
+    <string name="updateFail">Updating password failed, please try again.</string>
+    <string name="noconnection">There is no network connection available. Please connect and try again.</string>
+    <string name="fail">Sending the data has failed. Please try again.</string>
+    <string name="noresponse">There was no response from the server. Please try again later.</string>
+    <string name="scannererror">There was an error with the scanner. Please ensure it is enabled and try again.</string>
+    <string name="scannedtwice">The QR code on this carton has already been scanned. Please try a different carton.</string>
+    <string name="airbillscannedtwice">The QR code on this Shipper Case has already been scanned. Please try a different Shipper Case.</string>
+    <string name="invalidcartonqr">This is not a valid carton QR code. Please try another.</string>
+    <string name="invalidtntqr">This is not a valid Shipper Case QR code. Please try another.</string>
+    <string name="tntscannedtwice">The QR code on this Shipper Case has already been scanned. Please try a different  Shipper Case label.</string>
+    <string name="shippingcaseexists">Shipper Case code already in the queue. Please scan another label!</string>
+    <string name="shipmentexists">DHL Shipment Label already in the queue. Please scan or input another label!</string>
+    <string name="shippingcaseexists2">Shipper Case has been aggregated in the queue but not deaggregated. Please try a different shipper case label.</string>
+    <string name="cartonexists">Carton code already exists in the queue in another shipper case. Please scan another label!</string>
+    <string name="cartonexists2">Carton code already exists in the queue in another shipper case that has not been de-aggregated. Please scan another label!</string>
+
+    <!-- RXC STRINGS -->
+    <string name="assigndestination">Add Tracking Data</string>
+    <string name="associateshipmentinfo">Associate Shipment Information</string>
+    <string name="addshipmenttoqueue">Add Shipment to Queue</string>
+    <string name="scanshippercases">Add Shipper Cases</string>
+    <string name="updateshipment">Update Shipment</string>
+    <string name="destinationlist">Destinations</string>
+    <string name="scanlabel">Scan Shipper Case Label</string>
+    <string name="scanlabelnow">Scan Shipper Case Label Now</string>
+    <string name="assignheader">Add Tracking Information</string>
+    <string name="scanorinput">Scan Now or Input Manually</string>
+    <string name="assignlabel"></string>
+    <string name="adddestination">Destination</string>
+    <string name="addtracking">DHL Tracking Number</string>
+    <string name="shippercount">Number of Shipper Cases</string>
+    <string name="updatedestinationbutton">Update Tracking Data</string>
+    <string name="disassociateshipment">Dis-Associate Shipment by DHL Tracking Number</string>
+    <string name="disassociateshipmenttnt">Re-Assign Shippers</string>
+    <string name="destroyshipment">Destroy Shipment</string>
+    <string name="reassociateshipment">Re-Associate Shipment</string>
+    <string name="addnote">Note</string>
+    <string name="assigndestinationcheck">Are you sure you want to assign the destination?</string>
+    <string name="assigndestinationconfirm">The shipment is going to </string>
+    <string name="updatedestinationcheck">Are you sure you want to update this system?</string>
+    <string name="updatedestinationconfirm">The shipment is going to</string>
+    <string name="updatedestinationconfirm2">with tracking number</string>
+    <string name="updatedestinationconfirm3">. Are you sure this is OK and you want continue with adding the Shipper Cases?</string>
+    <string name="updatedestinationconfirm4"> and total shipper cases:</string>
+    <string name="updatedestinationconfirm5">. Are you sure you want to add this to the queue?</string>
+    <string name="assigntrackingconfirm">Add tracking information to shipment: </string>
+    <string name="disassociationconfirm">You are about to dis-associate the shipment with tracking number: </string>
+    <string name="disassociationconfirm2">Is this OK?</string>
+    <string name="destroyconfirm">You are about to destroy the shipment with tracking number: </string>
+
+    <!-- NOTIFICATION STRINGS -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="noconnectionupdatesettings">Settings cannot be configured until an internet connection can be established.</string>
+    <string name="noconnectionemail">E-Mails cannot be set until an internet connection can be established.</string>
+    <string name="noconnectionsettings">E-Mails cannot be set until an internet connection can be established.</string>
+    <string name="noconnectionreports">Reports cannot be sent until an internet connection can be established.</string>
+
+    <!-- BACK REQUEST NOTIFICATION STRINGS -->
+    <string name="backrequest">Are you sure you want to cancel scans and return to main screen?</string>
+    <string name="logoutrequest">Are you sure you want to logout?</string>
+    <string name="logoutrequestconfirm">If you continue, you will lose any unsaved information. Are you sure you want to logout?</string>
+    <string name="backrequestconfirm">If you continue, you will lose any unsaved information. Are you sure you want to go back?</string>
+    <string name="backrequestreaggregateconfirm">You cannot go back until after a successful aggregation.</string>
+    <string name="shipmentnotfound">Shipment not found. Please scan a different code and try again.</string>
+
+    <!-- PASWORD NOTIFICATION STRINGS -->
+    <string name="attention">Attention!</string>
+    <string name="passchange">Are you sure you want to change the password?</string>
+    <string name="passchangeconfirm">will have new password. Is this OK?</string>
+
+    <!-- EMAIL NOTIFICATION STRINGS -->
+    <string name="emailchange">Are you sure you want to change the e-mail addresses?</string>
+    <string name="emailchangeconfirm">Are you sure you want to update the following e-mail addresses? </string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#EFEFEA</color>
+    <color name="darkgray">#333333</color>
+    <color name="blue">#006699</color>
+    <color name="red">#AD0000</color>
+    <color name="green">#41ad49</color>
+    <color name="purple">#6C5679</color>
+    <color name="brown">#D98747</color>
+    <color name="darkblue">#00334A</color>
+    <color name="lightblue">#3C88AD</color>
+
+</resources>
